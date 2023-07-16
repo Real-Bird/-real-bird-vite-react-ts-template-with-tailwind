@@ -1,10 +1,10 @@
 ---
 title: vite-react-ts-template-with-tailwind
 created_at: 2023. 07. 16
-updated_at: 2023. 07. 16
+updated_at: 2023. 07. 17
 ---
 
-# @real-bird/vite-react-ts-template-with-tailwind
+# vite-react-ts-template-with-tailwind
 
 > `tailwind css`를 함께 설치하는 `vite-react-ts` 템플릿
 
